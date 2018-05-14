@@ -57,3 +57,7 @@ iot_controller-*.tar
 
 # Environment file
 .env
+
+# Emacs and vim buffers
+.#*
+*.sw{op}
